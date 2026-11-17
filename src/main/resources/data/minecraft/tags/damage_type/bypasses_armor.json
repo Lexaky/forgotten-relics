@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "forgottenrelics:dark_matter",
+    "forgottenrelics:fate",
+    "forgottenrelics:soul_drain",
+    "forgottenrelics:true_damage",
+    "forgottenrelics:true_damage_undefined"
+  ]
+}

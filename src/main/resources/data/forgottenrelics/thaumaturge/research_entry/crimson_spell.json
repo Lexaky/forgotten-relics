@@ -1,0 +1,58 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.crimson_spell.title",
+  "column": 3,
+  "row": 8,
+  "icons": [
+    "forgottenrelics:crimson_spell"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.crimson_spell.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.crimson_spell.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/crimson_spell"
+      ],
+      "warp": 5
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:eldritch_spell",
+    "forgottenrelics:scanned/crimson_spell"
+  ],
+  "meta": [
+    "hidden"
+  ]
+}

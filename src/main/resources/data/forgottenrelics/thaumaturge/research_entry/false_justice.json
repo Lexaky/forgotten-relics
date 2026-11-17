@@ -1,0 +1,63 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "forgottenrelics:false_justice_enabled"
+    }
+  ],
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.false_justice.title",
+  "column": -7,
+  "row": 0,
+  "icons": [
+    "forgottenrelics:false_justice"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.false_justice.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.false_justice.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/false_justice"
+      ],
+      "warp": 4
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:humanus",
+      "amount": 4
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "~forgottenrelics:apotheosis"
+  ],
+  "meta": [
+    "round",
+    "spiky"
+  ]
+}

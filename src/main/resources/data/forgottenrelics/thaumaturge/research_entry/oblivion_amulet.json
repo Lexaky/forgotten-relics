@@ -1,0 +1,62 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.oblivion_amulet.title",
+  "column": -3,
+  "row": -4,
+  "icons": [
+    "forgottenrelics:oblivion_amulet"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.oblivion_amulet.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.oblivion_amulet.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/oblivion_amulet"
+      ],
+      "warp": 8
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 9
+    },
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:praemunio",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 6
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:xp_tome",
+    "~thaumaturge:outer_revelations",
+    "~thaumaturge:oculus",
+    "~thaumaturge:primordial_pearl",
+    "forgottenrelics:scanned/oblivion_amulet"
+  ],
+  "meta": [
+    "spiky",
+    "hidden"
+  ]
+}

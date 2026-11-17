@@ -1,0 +1,56 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.dimensional_mirror.title",
+  "column": 1,
+  "row": -3,
+  "icons": [
+    "forgottenrelics:dimensional_mirror"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.dimensional_mirror.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.dimensional_mirror.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/dimensional_mirror"
+      ],
+      "warp": 1
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 5
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:generic_theory",
+    "~thaumaturge:mirror_hand",
+    "~thaumaturge:focus_rift",
+    "~forgottenrelics:advanced_mining_charm"
+  ],
+  "meta": [
+    "spiky"
+  ]
+}

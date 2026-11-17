@@ -1,0 +1,45 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 45
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 24
+    }
+  ],
+  "components": [
+    "thaumaturge:primal_charm",
+    "botania:elementium_ingot",
+    "minecraft:ender_pearl",
+    "botania:ender_air_bottle",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:focus_2",
+    "thaumaturge:salis_mundus",
+    "botania:ender_air_bottle",
+    "minecraft:ender_pearl",
+    "botania:elementium_ingot"
+  ],
+  "research": {
+    "entry": "forgottenrelics:discord_tome"
+  },
+  "result": {
+    "id": "forgottenrelics:teleportation_tome"
+  }
+}

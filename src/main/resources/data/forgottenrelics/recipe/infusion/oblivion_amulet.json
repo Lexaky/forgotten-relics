@@ -1,0 +1,51 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "botania:blood_pendant",
+  "instability": 5,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 16
+    }
+  ],
+  "components": [
+    "minecraft:nether_star",
+    "minecraft:blaze_powder",
+    "thaumaturge:ingot_void",
+    "minecraft:blaze_powder",
+    "thaumaturge:eldritch_eye",
+    "minecraft:blaze_powder",
+    "thaumaturge:ingot_void",
+    "minecraft:blaze_powder"
+  ],
+  "research": {
+    "entry": "forgottenrelics:oblivion_amulet"
+  },
+  "result": {
+    "id": "forgottenrelics:oblivion_amulet"
+  }
+}

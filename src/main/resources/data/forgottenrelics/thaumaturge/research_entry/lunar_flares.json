@@ -1,0 +1,55 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.lunar_flares.title",
+  "column": -5,
+  "row": 9,
+  "icons": [
+    "forgottenrelics:lunar_flares"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.lunar_flares.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.lunar_flares.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/lunar_flares"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:sensus",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:telekinesis_tome",
+    "~forgottenrelics:eldritch_spell",
+    "~thaumaturge:primordial_pearl"
+  ]
+}

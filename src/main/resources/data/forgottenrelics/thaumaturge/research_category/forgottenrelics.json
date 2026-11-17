@@ -1,0 +1,41 @@
+{
+  "background": "thaumaturge:textures/gui/gui_research_back_1_smooth.png",
+  "overlay_background": "thaumaturge:textures/gui/gui_research_back_over.png",
+  "icon": "forgottenrelics:textures/item/ghastly_skull.png",
+  "formula": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 5
+    }
+  ],
+  "index": 11,
+  "required_research": "thaumaturge:unlock_infusion"
+}

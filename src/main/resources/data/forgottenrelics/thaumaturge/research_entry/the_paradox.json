@@ -1,0 +1,52 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.the_paradox.title",
+  "column": 6,
+  "row": 0,
+  "icons": [
+    "forgottenrelics:paradox"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.the_paradox.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.the_paradox.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/paradox"
+      ],
+      "warp": 8
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 6
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forgottenrelics:superposition_ring",
+    "~forgottenrelics:chaos_core",
+    "~thaumaturge:primordial_pearl"
+  ]
+}

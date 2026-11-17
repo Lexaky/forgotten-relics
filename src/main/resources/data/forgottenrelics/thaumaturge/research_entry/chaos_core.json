@@ -1,0 +1,60 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.chaos_core.title",
+  "column": 7,
+  "row": -2,
+  "icons": [
+    "forgottenrelics:chaos_core"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.chaos_core.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.chaos_core.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/chaos_core"
+      ],
+      "warp": 2
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 7
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:superposition_ring",
+    "~thaumaturge:base_eldritch",
+    "~thaumaturge:alumentum",
+    "~forgottenrelics:ancient_aegis"
+  ],
+  "meta": [
+    "round"
+  ]
+}

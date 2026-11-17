@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:hand_mirror",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 10
+    }
+  ],
+  "components": [
+    "botania:life_essence",
+    "minecraft:glowstone_dust",
+    "botania:dragonstone",
+    "botania:ender_air_bottle",
+    "thaumaturge:focus_2",
+    "botania:ender_air_bottle",
+    "botania:dragonstone",
+    "minecraft:glowstone_dust"
+  ],
+  "research": {
+    "entry": "forgottenrelics:dimensional_mirror"
+  },
+  "result": {
+    "id": "forgottenrelics:dimensional_mirror"
+  }
+}

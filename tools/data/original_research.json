@@ -1,0 +1,2120 @@
+{
+ "stacks": {
+  "superpositionRing": "new ItemStack(Main.itemSuperpositionRing, 1, 0)",
+  "weatherStone": "new ItemStack(Main.itemWeatherStone, 1, 0)",
+  "miningCharm": "new ItemStack(Main.itemMiningCharm, 1, 0)",
+  "advancedMiningCharm": "new ItemStack(Main.itemAdvancedMiningCharm, 1, 0)",
+  "ancientAegis": "new ItemStack(Main.itemAncientAegis, 1, 0)",
+  "apotheosis": "new ItemStack(Main.itemApotheosis, 1, 0)",
+  "nebulousCore": "new ItemStack(Main.itemArcanum, 1, 0)",
+  "chaosCore": "new ItemStack(Main.itemChaosCore, 1, 0)",
+  "chaosTome": "new ItemStack(Main.itemChaosTome, 1, 0)",
+  "crimsonSpell": "new ItemStack(Main.itemCrimsonSpell, 1, 0)",
+  "darkSunRing": "new ItemStack(Main.itemDarkSunRing, 1, 0)",
+  "deificAmulet": "new ItemStack(Main.itemDeificAmulet, 1, 0)",
+  "dimensionalMirror": "new ItemStack(Main.itemDimensionalMirror, 1, 0)",
+  "eldritchSpell": "new ItemStack(Main.itemEldritchSpell, 1, 0)",
+  "falseJustice": "new ItemStack(Main.itemFalseJustice, 1, 0)",
+  "fateTome": "new ItemStack(Main.itemFateTome, 1, 0)",
+  "lunarFlares": "new ItemStack(Main.itemLunarFlares, 1, 0)",
+  "nuclearFury": "new ItemStack(Main.itemMissileTome, 1, 0)",
+  "obeliskDrainer": "new ItemStack(Main.itemObeliskDrainer, 1, 0)",
+  "theParadox": "new ItemStack(Main.itemParadox, 1, 0)",
+  "shinyStone": "new ItemStack(Main.itemShinyStone, 1, 0)",
+  "soulTome": "new ItemStack(Main.itemSoulTome, 1, 0)",
+  "telekinesisTome": "new ItemStack(Main.itemTelekinesisTome, 1, 0)",
+  "discordTome": "new ItemStack(Main.itemTeleportationTome, 1, 0)",
+  "XPTome": "new ItemStack(Main.itemXPTome, 1, 0)",
+  "oblivionAmulet": "new ItemStack(Main.itemOblivionAmulet, 1, 0)",
+  "enderEye": "new ItemStack(Items.ender_eye, 1, 0)",
+  "salisMundus": "new ItemStack(ConfigItems.itemResource, 1, 14)",
+  "voidSeed": "new ItemStack(ConfigItems.itemResource, 1, 17)",
+  "enderAir": "new ItemStack(ModItems.manaResource, 1, 15)",
+  "primalCharm": "new ItemStack(ConfigItems.itemResource, 1, 15)",
+  "blankRing": "new ItemStack(ConfigItems.itemBaubleBlanks, 1, 1)",
+  "ghastTear": "new ItemStack(Items.ghast_tear, 1, 0)",
+  "airRune": "new ItemStack(ModItems.rune, 1, 3)",
+  "airShard": "new ItemStack(ConfigItems.itemShard, 1, 0)",
+  "fireShard": "new ItemStack(ConfigItems.itemShard, 1, 1)",
+  "waterShard": "new ItemStack(ConfigItems.itemShard, 1, 2)",
+  "earthShard": "new ItemStack(ConfigItems.itemShard, 1, 3)",
+  "orderShard": "new ItemStack(ConfigItems.itemShard, 1, 4)",
+  "entropyShard": "new ItemStack(ConfigItems.itemShard, 1, 5)",
+  "balancedShard": "new ItemStack(ConfigItems.itemShard, 1, 6)",
+  "knowledgeFragment": "new ItemStack(ConfigItems.itemResource, 1, 9)",
+  "inkwell": "new ItemStack(ConfigItems.itemInkwell, 1, 0)",
+  "arcaneStone": "new ItemStack(ConfigBlocks.blockCosmeticSolid, 1, 6)",
+  "gaiaSpirit": "new ItemStack(ModItems.manaResource, 1, 5)",
+  "terrasteelIngot": "new ItemStack(ModItems.manaResource, 1, 4)",
+  "nitor": "new ItemStack(ConfigItems.itemResource, 1, 1)",
+  "elementalPickaxe": "new ItemStack(ConfigItems.itemPickElemental, 1, 0)",
+  "speedPotionII": "new ItemStack(Items.potionitem, 1, 8226)",
+  "reachRing": "new ItemStack(ModItems.reachRing, 1, 0)",
+  "dragonStone": "new ItemStack(ModItems.manaResource, 1, 9)",
+  "portableHole": "new ItemStack(ConfigItems.itemFocusPortableHole, 1, 0)",
+  "handMirror": "new ItemStack(ConfigItems.itemHandMirror, 1, 0)",
+  "glowstone": "new ItemStack(Items.glowstone_dust, 1, 0)",
+  "etherealEssence": "new ItemStack(ConfigItems.itemWispEssence, 1, 0)",
+  "elementiumIngot": "new ItemStack(ModItems.manaResource, 1, 7)",
+  "voidPickaxe": "new ItemStack(ConfigItems.itemPickVoid, 1, 0)",
+  "kineticRunicGirdle": "new ItemStack(ConfigItems.itemGirdleRunic, 1, 1)",
+  "tectonicGirdle": "new ItemStack(ModItems.knockbackBelt, 1, 0)",
+  "healPotionII": "new ItemStack(Items.potionitem, 1, 8229)",
+  "pixieDust": "new ItemStack(ModItems.manaResource, 1, 8)",
+  "enchantedFabric": "new ItemStack(ConfigItems.itemResource, 1, 7)",
+  "goldIngot": "new ItemStack(Items.gold_ingot, 1, 0)",
+  "blazePowder": "new ItemStack(Items.blaze_powder, 1, 0)",
+  "blazeRod": "new ItemStack(Items.blaze_rod, 1, 0)",
+  "lavaBucket": "new ItemStack(Items.lava_bucket, 1, 0)",
+  "runicRingCharged": "new ItemStack(ConfigItems.itemRingRunic, 1, 2)",
+  "cinderPearl": "new ItemStack(ConfigBlocks.blockCustomPlant, 1, 3)",
+  "superLavaPendant": "new ItemStack(ModItems.superLavaPendant, 1, 0)",
+  "runicAmuletAdv": "new ItemStack(ConfigItems.itemAmuletRunic, 1, 1)",
+  "lavaPendant": "new ItemStack(ModItems.lavaPendant, 1, 0)",
+  "voidIngot": "new ItemStack(ConfigItems.itemResource, 1, 16)",
+  "alumentum": "new ItemStack(ConfigItems.itemResource, 1, 0)",
+  "voidSword": "new ItemStack(ConfigItems.itemSwordVoid, 1, 0)",
+  "primordialPearl": "new ItemStack(ConfigItems.itemEldritchObject, 1, 3)",
+  "superGoldenApple": "new ItemStack(Items.golden_apple, 1, 1)",
+  "bloodPendant": "new ItemStack(ModItems.bloodPendant, 1, 0)",
+  "netherStar": "new ItemStack(Items.nether_star, 1, 0)",
+  "eldritchEye": "new ItemStack(ConfigItems.itemEldritchObject, 1, 0)",
+  "writableBook": "new ItemStack(Items.writable_book, 1, 0)",
+  "amber": "new ItemStack(ConfigItems.itemResource, 1, 6)",
+  "greatVisAmulet": "new ItemStack(ConfigItems.itemAmuletVis, 0, 1)",
+  "thaumiumIngot": "new ItemStack(ConfigItems.itemResource, 1, 2)",
+  "enderPearl": "new ItemStack(Items.ender_pearl, 1, 0)",
+  "shockFocus": "new ItemStack(ConfigItems.itemFocusShock, 1, 0)",
+  "gravityRod": "new ItemStack(ModItems.gravityRod, 1, 0)",
+  "pechFocus": "new ItemStack(ConfigItems.itemFocusPech, 1, 0)",
+  "jarredBrain": "new ItemStack(ConfigBlocks.blockJar, 1, 1)",
+  "goldLaurel": "new ItemStack(ModItems.goldLaurel)",
+  "fireball": "new ItemStack(Items.fire_charge, 1, 0)",
+  "bottledTaint": "new ItemStack(ConfigItems.itemBottleTaint, 1, 0)",
+  "primalFocus": "new ItemStack(ConfigItems.itemFocusPrimal, 1, 0)",
+  "redstone": "new ItemStack(Items.redstone, 1, 0)",
+  "crimsonRites": "new ItemStack(ConfigItems.itemEldritchObject, 1, 1)",
+  "starSword": "new ItemStack(ModItems.starSword, 1, 0)",
+  "missileRod": "new ItemStack(ModItems.missileRod, 1, 0)",
+  "kingKey": "new ItemStack(ModItems.kingKey, 1, 0)",
+  "emerald": "new ItemStack(Items.emerald, 1, 0)",
+  "elementiumNugget": "new ItemStack(ModItems.manaResource, 1, 19)",
+  "elementiumBlock": "new ItemStack(ModBlocks.storage, 1, 2)",
+  "dragonstoneBlock": "new ItemStack(ModBlocks.storage, 1, 4)",
+  "dreamwood": "new ItemStack(ModBlocks.dreamwood, 1, 0)",
+  "eldritchTablet": "new ItemStack(ConfigItems.itemEldritchObject, 1, 13)"
+ },
+ "research": [
+  {
+   "key": "GenericTheory",
+   "aspects": {
+    "MIND": 4,
+    "TOOL": 4,
+    "MAGIC": 4,
+    "CRAFT": 4
+   },
+   "col": 0,
+   "row": 0,
+   "complexity": 1,
+   "icon": "eldritchTablet",
+   "flags": [
+    "Round",
+    "Special"
+   ],
+   "parents": [],
+   "parents_hidden": [
+    "INFUSION",
+    "THAUMIUM"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    },
+    {
+     "text": "4"
+    },
+    {
+     "text": "5"
+    }
+   ]
+  },
+  {
+   "key": "SuperpositionRing",
+   "aspects": {
+    "TRAVEL": 4,
+    "DARKNESS": 3,
+    "ELDRITCH": 6,
+    "EXCHANGE": 4
+   },
+   "col": 3,
+   "row": 1,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemSuperpositionRing)",
+   "flags": [],
+   "parents": [
+    "GenericTheory"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMINOR"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ISuperpositionRing"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "WeatherStone",
+   "aspects": {
+    "WEATHER": 8,
+    "AIR": 4,
+    "WATER": 4,
+    "EXCHANGE": 3
+   },
+   "col": -3,
+   "row": -1,
+   "complexity": 1,
+   "icon": "new ItemStack(Main.itemWeatherStone)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "GenericTheory"
+   ],
+   "parents_hidden": [
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IWeatherStone"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "MiningCharm",
+   "aspects": {
+    "MINE": 5,
+    "TOOL": 4,
+    "MOTION": 4,
+    "MAN": 3
+   },
+   "col": 3,
+   "row": -1,
+   "complexity": 1,
+   "icon": "new ItemStack(Main.itemMiningCharm)",
+   "flags": [
+    "Concealed",
+    "Round"
+   ],
+   "parents": [
+    "GenericTheory"
+   ],
+   "parents_hidden": [
+    "ELEMENTALPICK"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IMiningCharm"
+    }
+   ]
+  },
+  {
+   "key": "AdvancedMiningCharm",
+   "aspects": {
+    "MINE": 8,
+    "TOOL": 6,
+    "MOTION": 4,
+    "AURA": 3,
+    "MAGIC": 4
+   },
+   "col": 5,
+   "row": -3,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemAdvancedMiningCharm)",
+   "flags": [
+    "Hidden"
+   ],
+   "parents": [
+    "MiningCharm"
+   ],
+   "parents_hidden": [],
+   "item_triggers": [
+    "gaiaSpirit"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IAdvancedMiningCharm"
+    }
+   ]
+  },
+  {
+   "key": "DimensionalMirror",
+   "aspects": {
+    "TRAVEL": 8,
+    "DARKNESS": 6,
+    "ELDRITCH": 6,
+    "MAGIC": 5
+   },
+   "col": 1,
+   "row": -3,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemDimensionalMirror)",
+   "flags": [
+    "Concealed",
+    "Special"
+   ],
+   "parents": [
+    "GenericTheory"
+   ],
+   "parents_hidden": [
+    "MIRRORHAND",
+    "FOCUSPORTABLEHOLE",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IDimensionalMirror"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "AncientAegis",
+   "aspects": {
+    "ARMOR": 8,
+    "EXCHANGE": 6,
+    "METAL": 6,
+    "MAGIC": 4
+   },
+   "col": 5,
+   "row": 3,
+   "complexity": 1,
+   "icon": "new ItemStack(Main.itemAncientAegis)",
+   "flags": [
+    "Hidden"
+   ],
+   "parents": [
+    "SuperpositionRing"
+   ],
+   "parents_hidden": [
+    "RUNICKINETIC",
+    "ENCHFABRIC"
+   ],
+   "item_triggers": [
+    "dragonStone",
+    "pixieDust",
+    "elementiumIngot",
+    "elementiumNugget",
+    "elementiumBlock",
+    "dragonstoneBlock",
+    "dreamwood"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IAncientAegis"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "XPTome",
+   "aspects": {
+    "MIND": 10,
+    "VOID": 8,
+    "EXCHANGE": 8,
+    "MAGIC": 8
+   },
+   "col": -5,
+   "row": -3,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemXPTome)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "WeatherStone"
+   ],
+   "parents_hidden": [
+    "JARBRAIN",
+    "NITOR"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IXPTome"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "SpellbookTheory",
+   "aspects": {
+    "MIND": 6,
+    "MAGIC": 4,
+    "CRAFT": 4,
+    "ORDER": 3
+   },
+   "col": -1,
+   "row": 2,
+   "complexity": 1,
+   "icon": "new ItemStack(Items.writable_book)",
+   "flags": [
+    "Concealed",
+    "Round"
+   ],
+   "parents": [
+    "GenericTheory"
+   ],
+   "parents_hidden": [
+    "CRIMSON"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    },
+    {
+     "text": "4"
+    }
+   ]
+  },
+  {
+   "key": "DiscordTome",
+   "aspects": {
+    "MAGIC": 8,
+    "TRAVEL": 6,
+    "DARKNESS": 4,
+    "MIND": 4,
+    "ELDRITCH": 3
+   },
+   "col": -2,
+   "row": 5,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemTeleportationTome)",
+   "flags": [
+    "Hidden"
+   ],
+   "parents": [
+    "SpellbookTheory"
+   ],
+   "parents_hidden": [
+    "FOCUSPORTABLEHOLE"
+   ],
+   "item_triggers": [
+    "dragonStone",
+    "pixieDust",
+    "elementiumIngot",
+    "elementiumNugget",
+    "elementiumBlock",
+    "dragonstoneBlock",
+    "dreamwood"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IDiscordTome"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "FateTome",
+   "aspects": {
+    "HEAL": 8,
+    "LIFE": 8,
+    "EXCHANGE": 5,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": -4,
+   "row": 2,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemFateTome)",
+   "flags": [
+    "Concealed",
+    "Special"
+   ],
+   "parents": [
+    "SpellbookTheory"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMAJOR",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IFateTome"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "TelekinesisTome",
+   "aspects": {
+    "MOTION": 8,
+    "FLIGHT": 6,
+    "TRAP": 6,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": -4,
+   "row": 7,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemTelekinesisTome)",
+   "flags": [],
+   "parents": [
+    "DiscordTome"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMINOR",
+    "FOCUSSHOCK",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ITelekinesisTome"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "key": "ObeliskDrainer",
+   "aspects": {
+    "ELDRITCH": 10,
+    "VOID": 8,
+    "DARKNESS": 8,
+    "EXCHANGE": 6,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": 0,
+   "row": 7,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemObeliskDrainer)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "DiscordTome"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMAJOR",
+    "VOIDMETAL",
+    "ENCHFABRIC",
+    "NITOR",
+    "OCULUS"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IObeliskDrainer"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "EldritchSpell",
+   "aspects": {
+    "DARKNESS": 8,
+    "WEAPON": 8,
+    "ELDRITCH": 6,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": 2,
+   "row": 6,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemEldritchSpell)",
+   "flags": [
+    "Concealed",
+    "Special"
+   ],
+   "parents": [
+    "ObeliskDrainer"
+   ],
+   "parents_hidden": [
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IEldritchSpell"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "CrimsonSpell",
+   "aspects": {
+    "FIRE": 8,
+    "DARKNESS": 8,
+    "ENTROPY": 6,
+    "ELDRITCH": 4,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": 3,
+   "row": 8,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemCrimsonSpell)",
+   "flags": [
+    "Concealed",
+    "Hidden"
+   ],
+   "parents": [
+    "EldritchSpell"
+   ],
+   "parents_hidden": [],
+   "item_triggers": [
+    "crimsonRites"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ICrimsonSpell"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "key": "ChaosTome",
+   "aspects": {
+    "AIR": 8,
+    "WATER": 8,
+    "FIRE": 8,
+    "EARTH": 8,
+    "ORDER": 8,
+    "ENTROPY": 8,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": 2,
+   "row": 4,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemChaosTome)",
+   "flags": [],
+   "parents": [
+    "EldritchSpell"
+   ],
+   "parents_hidden": [
+    "ROD_primal_staff",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IChaosTome"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "NuclearFury",
+   "aspects": {
+    "MAGIC": 8,
+    "ENERGY": 8,
+    "LIGHT": 6,
+    "FIRE": 5,
+    "AURA": 5,
+    "MIND": 4
+   },
+   "col": 4,
+   "row": 5,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemMissileTome)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "ChaosTome"
+   ],
+   "parents_hidden": [
+    "PRIMPEARL"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "INuclearFury"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "key": "SoulTome",
+   "aspects": {
+    "SOUL": 8,
+    "TRAP": 8,
+    "DEATH": 6,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": -1,
+   "row": 9,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemSoulTome)",
+   "flags": [
+    "Concealed",
+    "Hidden"
+   ],
+   "parents": [
+    "ObeliskDrainer"
+   ],
+   "parents_hidden": [
+    "JARBRAIN"
+   ],
+   "item_triggers": [
+    "pechFocus"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ISoulTome"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "LunarFlares",
+   "aspects": {
+    "LIGHT": 8,
+    "SENSES": 8,
+    "AIR": 6,
+    "ENERGY": 8,
+    "MIND": 4,
+    "MAGIC": 4
+   },
+   "col": -5,
+   "row": 9,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemLunarFlares)",
+   "flags": [],
+   "parents": [
+    "TelekinesisTome"
+   ],
+   "parents_hidden": [
+    "EldritchSpell",
+    "PRIMPEARL"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ILunarFlares"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "Apotheosis",
+   "aspects": {
+    "MAGIC": 16,
+    "WEAPON": 12,
+    "ENERGY": 12,
+    "LIGHT": 12,
+    "MIND": 8
+   },
+   "col": -2,
+   "row": 7,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemApotheosis)",
+   "flags": [
+    "Round",
+    "Special"
+   ],
+   "parents": [
+    "DiscordTome"
+   ],
+   "parents_hidden": [
+    "LunarFlares",
+    "SoulTome",
+    "NuclearFury",
+    "CrimsonSpell",
+    "FateTome",
+    "NebulosCore",
+    "OblivionAmulet",
+    "TheParadox",
+    "DarkSunRing",
+    "ShinyStone",
+    "DimensionalMirror"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IApotheosis"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    },
+    {
+     "text": "4"
+    }
+   ]
+  },
+  {
+   "key": "ChaosCore",
+   "aspects": {
+    "ORDER": 8,
+    "ENTROPY": 8,
+    "EXCHANGE": 8,
+    "ENERGY": 8,
+    "VOID": 8
+   },
+   "col": 7,
+   "row": -2,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemChaosCore)",
+   "flags": [
+    "Concealed",
+    "Round"
+   ],
+   "parents": [
+    "SuperpositionRing"
+   ],
+   "parents_hidden": [
+    "VOIDMETAL",
+    "ALUMENTUM",
+    "AncientAegis"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IChaosCore"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "TheParadox",
+   "aspects": {
+    "ENTROPY": 8,
+    "EXCHANGE": 8,
+    "ORDER": 8,
+    "WEAPON": 6
+   },
+   "col": 6,
+   "row": 0,
+   "complexity": 1,
+   "icon": "new ItemStack(Main.itemParadox)",
+   "flags": [
+    "Concealed",
+    "Secondary"
+   ],
+   "parents": [
+    "SuperpositionRing"
+   ],
+   "parents_hidden": [
+    "ChaosCore",
+    "PRIMPEARL"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "ITheParadox"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "DarkSunRing",
+   "aspects": {
+    "FIRE": 7,
+    "DARKNESS": 6,
+    "ENERGY": 5,
+    "ARMOR": 4,
+    "EXCHANGE": 3,
+    "MAGIC": 2,
+    "LIGHT": 1
+   },
+   "col": 7,
+   "row": 2,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemDarkSunRing)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "SuperpositionRing"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMINOR",
+    "NITOR",
+    "RUNICCHARGED",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IDarkSunRing"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "DeificAmulet",
+   "aspects": {
+    "MAN": 6,
+    "HEAL": 4,
+    "LIGHT": 4,
+    "EXCHANGE": 4,
+    "MAGIC": 4
+   },
+   "col": 3,
+   "row": -4,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemDeificAmulet)",
+   "flags": [
+    "Concealed"
+   ],
+   "parents": [
+    "MiningCharm"
+   ],
+   "parents_hidden": [
+    "RUNICEMERGENCY",
+    "AdvancedMiningCharm"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IDeificAmulet"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "ShinyStone",
+   "aspects": {
+    "HEAL": 8,
+    "EXCHANGE": 6,
+    "CRYSTAL": 4,
+    "MAGIC": 4
+   },
+   "col": 6,
+   "row": -5,
+   "complexity": 2,
+   "icon": "new ItemStack(Main.itemShinyStone)",
+   "flags": [
+    "Hidden"
+   ],
+   "parents": [
+    "DeificAmulet"
+   ],
+   "parents_hidden": [],
+   "item_triggers": [
+    "superGoldenApple"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IShinyStone"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  },
+  {
+   "key": "OblivionAmulet",
+   "aspects": {
+    "DARKNESS": 12,
+    "DEATH": 10,
+    "ARMOR": 8,
+    "EXCHANGE": 8,
+    "VOID": 8,
+    "SOUL": 4
+   },
+   "col": -3,
+   "row": -4,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemOblivionAmulet)",
+   "flags": [
+    "Concealed",
+    "Hidden",
+    "Special"
+   ],
+   "parents": [
+    "XPTome"
+   ],
+   "parents_hidden": [
+    "ELDRITCHMAJOR",
+    "OCULUS",
+    "PRIMPEARL"
+   ],
+   "item_triggers": [
+    "netherStar"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IOblivionAmulet"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "key": "NebulousCore",
+   "aspects": {
+    "AURA": 10,
+    "MAGIC": 8,
+    "VOID": 6,
+    "ENERGY": 6,
+    "EXCHANGE": 4
+   },
+   "col": 0,
+   "row": -5,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemArcanum)",
+   "flags": [
+    "Hidden",
+    "Special"
+   ],
+   "parents": [
+    "DeificAmulet"
+   ],
+   "parents_hidden": [
+    "PRIMPEARL",
+    "VISAMULET",
+    "SuperpositionRing",
+    "THAUMIUM"
+   ],
+   "item_triggers": [
+    "superpositionRing"
+   ],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "INebulousCore"
+    },
+    {
+     "text": "2"
+    },
+    {
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "key": "FalseJustice",
+   "aspects": {
+    "LIGHT": 8,
+    "DARKNESS": 8,
+    "EXCHANGE": 8,
+    "TOOL": 6,
+    "MAN": 4
+   },
+   "col": -7,
+   "row": 0,
+   "complexity": 3,
+   "icon": "new ItemStack(Main.itemFalseJustice)",
+   "flags": [
+    "Round",
+    "Special"
+   ],
+   "parents": [],
+   "parents_hidden": [
+    "Apotheosis"
+   ],
+   "item_triggers": [],
+   "pages": [
+    {
+     "text": "1"
+    },
+    {
+     "recipe": "IFalseJustice"
+    },
+    {
+     "text": "2"
+    }
+   ]
+  }
+ ],
+ "recipes": {
+  "ISuperpositionRing": {
+   "research": "SuperpositionRing",
+   "output": "superpositionRing",
+   "instability": 4,
+   "aspects": {
+    "ELDRITCH": 32,
+    "EXCHANGE": 30,
+    "TRAVEL": 24,
+    "DARKNESS": 20,
+    "ARMOR": 8
+   },
+   "center": "blankRing",
+   "components": [
+    "enderEye",
+    "enderAir",
+    "voidSeed",
+    "salisMundus",
+    "emerald",
+    "salisMundus",
+    "voidSeed",
+    "enderAir"
+   ]
+  },
+  "IWeatherStone": {
+   "research": "WeatherStone",
+   "output": "weatherStone",
+   "instability": 4,
+   "aspects": {
+    "WEATHER": 16,
+    "AIR": 24,
+    "WATER": 10,
+    "EXCHANGE": 12,
+    "ENERGY": 20
+   },
+   "center": "arcaneStone",
+   "components": [
+    "gaiaSpirit",
+    "ghastTear",
+    "airRune",
+    "knowledgeFragment",
+    "nitor",
+    "knowledgeFragment",
+    "airRune",
+    "ghastTear"
+   ]
+  },
+  "IMiningCharm": {
+   "research": "MiningCharm",
+   "output": "miningCharm",
+   "instability": 1,
+   "aspects": {
+    "MINE": 24,
+    "TOOL": 20,
+    "MOTION": 16,
+    "METAL": 12,
+    "MAGIC": 16
+   },
+   "center": "reachRing",
+   "components": [
+    "elementalPickaxe",
+    "earthShard",
+    "salisMundus",
+    "goldIngot",
+    "speedPotionII",
+    "earthShard",
+    "salisMundus",
+    "goldIngot"
+   ]
+  },
+  "IDimensionalMirror": {
+   "research": "DimensionalMirror",
+   "output": "dimensionalMirror",
+   "instability": 6,
+   "aspects": {
+    "TRAVEL": 40,
+    "DARKNESS": 20,
+    "MAGIC": 24,
+    "VOID": 16,
+    "ELDRITCH": 10
+   },
+   "center": "handMirror",
+   "components": [
+    "gaiaSpirit",
+    "glowstone",
+    "dragonStone",
+    "enderAir",
+    "portableHole",
+    "enderAir",
+    "dragonStone",
+    "glowstone"
+   ]
+  },
+  "IAdvancedMiningCharm": {
+   "research": "AdvancedMiningCharm",
+   "output": "advancedMiningCharm",
+   "instability": 8,
+   "aspects": {
+    "MINE": 64,
+    "AURA": 40,
+    "CRYSTAL": 48,
+    "EXCHANGE": 40,
+    "MOTION": 32,
+    "MAGIC": 36,
+    "TOOL": 50
+   },
+   "center": "miningCharm",
+   "components": [
+    "primalCharm",
+    "etherealEssence",
+    "elementiumIngot",
+    "dragonStone",
+    "gaiaSpirit",
+    "etherealEssence",
+    "voidPickaxe",
+    "etherealEssence",
+    "gaiaSpirit",
+    "dragonStone",
+    "elementiumIngot",
+    "etherealEssence"
+   ]
+  },
+  "IAncientAegis": {
+   "research": "AncientAegis",
+   "output": "ancientAegis",
+   "instability": 5,
+   "aspects": {
+    "ARMOR": 45,
+    "EXCHANGE": 30,
+    "HEAL": 24,
+    "MAGIC": 30,
+    "METAL": 20
+   },
+   "center": "tectonicGirdle",
+   "components": [
+    "dragonStone",
+    "healPotionII",
+    "goldIngot",
+    "enchantedFabric",
+    "kineticRunicGirdle",
+    "enchantedFabric",
+    "goldIngot",
+    "healPotionII"
+   ]
+  },
+  "IDarkSunRing": {
+   "research": "DarkSunRing",
+   "output": "darkSunRing",
+   "instability": 8,
+   "aspects": {
+    "FIRE": 60,
+    "ARMOR": 48,
+    "EXCHANGE": 36,
+    "DARKNESS": 40,
+    "MAGIC": 25
+   },
+   "center": "runicRingCharged",
+   "components": [
+    "superLavaPendant",
+    "elementiumIngot",
+    "blazeRod",
+    "cinderPearl",
+    "voidSeed",
+    "nitor",
+    "voidSeed",
+    "cinderPearl",
+    "blazeRod",
+    "elementiumIngot"
+   ]
+  },
+  "IDeificAmulet": {
+   "research": "DeificAmulet",
+   "output": "deificAmulet",
+   "instability": 4,
+   "aspects": {
+    "MAN": 30,
+    "LIGHT": 42,
+    "AURA": 16,
+    "MAGIC": 25,
+    "HEAL": 8,
+    "EXCHANGE": 20
+   },
+   "center": "runicAmuletAdv",
+   "components": [
+    "lavaPendant",
+    "gaiaSpirit",
+    "pixieDust",
+    "gaiaSpirit",
+    "primalCharm",
+    "gaiaSpirit",
+    "pixieDust",
+    "gaiaSpirit"
+   ]
+  },
+  "IChaosCore": {
+   "research": "ChaosCore",
+   "output": "chaosCore",
+   "instability": 10,
+   "aspects": {
+    "ENTROPY": 25,
+    "ORDER": 25,
+    "EXCHANGE": 16,
+    "MAGIC": 32
+   },
+   "center": "primalCharm",
+   "components": [
+    "dragonStone",
+    "pixieDust",
+    "voidIngot",
+    "pixieDust",
+    "alumentum",
+    "pixieDust",
+    "voidIngot",
+    "pixieDust"
+   ]
+  },
+  "ITheParadox": {
+   "research": "TheParadox",
+   "output": "theParadox",
+   "instability": 32,
+   "aspects": {
+    "AIR": 64,
+    "FIRE": 64,
+    "WATER": 64,
+    "EARTH": 64,
+    "ORDER": 64,
+    "ENTROPY": 64,
+    "VOID": 48,
+    "WEAPON": 32,
+    "MAGIC": 24,
+    "EXCHANGE": 36
+   },
+   "center": "voidSword",
+   "components": [
+    "chaosCore",
+    "airShard",
+    "fireShard",
+    "waterShard",
+    "primordialPearl",
+    "earthShard",
+    "orderShard",
+    "entropyShard"
+   ]
+  },
+  "IShinyStone": {
+   "research": "ShinyStone",
+   "output": "shinyStone",
+   "instability": 8,
+   "aspects": {
+    "HEAL": 40,
+    "LIFE": 32,
+    "TRAP": 24,
+    "EXCHANGE": 24,
+    "MAGIC": 24,
+    "CRYSTAL": 16
+   },
+   "center": "dragonStone",
+   "components": [
+    "primalCharm",
+    "goldIngot",
+    "gaiaSpirit",
+    "nitor",
+    "superGoldenApple",
+    "nitor",
+    "gaiaSpirit",
+    "goldIngot"
+   ]
+  },
+  "IOblivionAmulet": {
+   "research": "OblivionAmulet",
+   "output": "oblivionAmulet",
+   "instability": 16,
+   "aspects": {
+    "DEATH": 64,
+    "EXCHANGE": 50,
+    "VOID": 72,
+    "DARKNESS": 100,
+    "ELDRITCH": 24,
+    "MAGIC": 32,
+    "FIRE": 16
+   },
+   "center": "bloodPendant",
+   "components": [
+    "netherStar",
+    "blazePowder",
+    "voidIngot",
+    "blazePowder",
+    "eldritchEye",
+    "blazePowder",
+    "voidIngot",
+    "blazePowder"
+   ]
+  },
+  "IXPTome": {
+   "research": "XPTome",
+   "output": "XPTome",
+   "instability": 4,
+   "aspects": {
+    "SOUL": 32,
+    "MIND": 40,
+    "EXCHANGE": 8,
+    "MAGIC": 24
+   },
+   "center": "writableBook",
+   "components": [
+    "jarredBrain",
+    "salisMundus",
+    "amber",
+    "salisMundus",
+    "nitor",
+    "salisMundus",
+    "amber",
+    "salisMundus"
+   ]
+  },
+  "INebulousCore": {
+   "research": "NebulousCore",
+   "output": "nebulousCore",
+   "instability": 12,
+   "aspects": {
+    "AURA": 80,
+    "MAGIC": 128,
+    "VOID": 32,
+    "ELDRITCH": 50,
+    "DARKNESS": 40,
+    "TRAVEL": 24,
+    "EXCHANGE": 48
+   },
+   "center": "primordialPearl",
+   "components": [
+    "greatVisAmulet",
+    "etherealEssence",
+    "gaiaSpirit",
+    "thaumiumIngot",
+    "enderAir",
+    "etherealEssence",
+    "superpositionRing",
+    "etherealEssence",
+    "enderAir",
+    "thaumiumIngot",
+    "gaiaSpirit",
+    "etherealEssence"
+   ]
+  },
+  "IDiscordTome": {
+   "research": "DiscordTome",
+   "output": "discordTome",
+   "instability": 5,
+   "aspects": {
+    "TRAVEL": 50,
+    "DARKNESS": 30,
+    "VOID": 30,
+    "MAGIC": 45,
+    "MIND": 24
+   },
+   "center": "writableBook",
+   "components": [
+    "primalCharm",
+    "elementiumIngot",
+    "enderPearl",
+    "enderAir",
+    "salisMundus",
+    "portableHole",
+    "salisMundus",
+    "enderAir",
+    "enderPearl",
+    "elementiumIngot"
+   ]
+  },
+  "IObeliskDrainer": {
+   "research": "ObeliskDrainer",
+   "output": "obeliskDrainer",
+   "instability": 8,
+   "aspects": {
+    "ELDRITCH": 72,
+    "VOID": 64,
+    "DARKNESS": 64,
+    "ENERGY": 40,
+    "MAGIC": 52,
+    "AURA": 25,
+    "EXCHANGE": 32
+   },
+   "center": "writableBook",
+   "components": [
+    "nitor",
+    "knowledgeFragment",
+    "voidIngot",
+    "primalCharm",
+    "enchantedFabric",
+    "salisMundus",
+    "eldritchEye",
+    "salisMundus",
+    "enchantedFabric",
+    "primalCharm",
+    "voidIngot",
+    "knowledgeFragment"
+   ]
+  },
+  "ITelekinesisTome": {
+   "research": "TelekinesisTome",
+   "output": "telekinesisTome",
+   "instability": 8,
+   "aspects": {
+    "MOTION": 32,
+    "TRAP": 48,
+    "MAGIC": 64,
+    "DARKNESS": 24,
+    "AIR": 25,
+    "ENERGY": 40,
+    "TOOL": 16
+   },
+   "center": "writableBook",
+   "components": [
+    "primalCharm",
+    "voidSeed",
+    "shockFocus",
+    "gaiaSpirit",
+    "salisMundus",
+    "gravityRod",
+    "salisMundus",
+    "gaiaSpirit",
+    "shockFocus",
+    "voidSeed"
+   ]
+  },
+  "ISoulTome": {
+   "research": "SoulTome",
+   "output": "soulTome",
+   "instability": 10,
+   "aspects": {
+    "SOUL": 80,
+    "VOID": 60,
+    "MAGIC": 45,
+    "TRAP": 60,
+    "DEATH": 32,
+    "DARKNESS": 48,
+    "EXCHANGE": 52
+   },
+   "center": "writableBook",
+   "components": [
+    "pechFocus",
+    "alumentum",
+    "gaiaSpirit",
+    "enderEye",
+    "gaiaSpirit",
+    "salisMundus",
+    "jarredBrain",
+    "salisMundus",
+    "gaiaSpirit",
+    "enderEye",
+    "gaiaSpirit",
+    "alumentum"
+   ]
+  },
+  "IFateTome": {
+   "research": "FateTome",
+   "output": "fateTome",
+   "instability": 20,
+   "aspects": {
+    "HEAL": 40,
+    "LIFE": 64,
+    "EXCHANGE": 32,
+    "MAN": 24,
+    "MIND": 16,
+    "SOUL": 36,
+    "ORDER": 20
+   },
+   "center": "writableBook",
+   "components": [
+    "goldLaurel",
+    "dragonStone",
+    "gaiaSpirit",
+    "nitor",
+    "gaiaSpirit",
+    "salisMundus",
+    "primalCharm",
+    "salisMundus",
+    "gaiaSpirit",
+    "nitor",
+    "gaiaSpirit",
+    "dragonStone"
+   ]
+  },
+  "IEldritchSpell": {
+   "research": "EldritchSpell",
+   "output": "eldritchSpell",
+   "instability": 8,
+   "aspects": {
+    "ELDRITCH": 72,
+    "DARKNESS": 64,
+    "DEATH": 40,
+    "MAGIC": 36,
+    "MIND": 24,
+    "WEAPON": 12,
+    "TAINT": 24
+   },
+   "center": "writableBook",
+   "components": [
+    "primalCharm",
+    "voidIngot",
+    "fireball",
+    "eldritchEye",
+    "bottledTaint",
+    "salisMundus",
+    "gaiaSpirit",
+    "salisMundus",
+    "bottledTaint",
+    "eldritchEye",
+    "fireball",
+    "voidIngot"
+   ]
+  },
+  "IChaosTome": {
+   "research": "ChaosTome",
+   "output": "chaosTome",
+   "instability": 12,
+   "aspects": {
+    "AIR": 100,
+    "WATER": 100,
+    "EARTH": 100,
+    "FIRE": 100,
+    "ORDER": 100,
+    "ENTROPY": 100,
+    "MAGIC": 256,
+    "EXCHANGE": 72,
+    "ELDRITCH": 36,
+    "DARKNESS": 40
+   },
+   "center": "writableBook",
+   "components": [
+    "primalFocus",
+    "salisMundus",
+    "elementiumIngot",
+    "primalFocus",
+    "gaiaSpirit",
+    "salisMundus",
+    "primalFocus",
+    "salisMundus",
+    "gaiaSpirit",
+    "primalFocus",
+    "elementiumIngot",
+    "salisMundus"
+   ]
+  },
+  "INuclearFury": {
+   "research": "NuclearFury",
+   "output": "nuclearFury",
+   "instability": 10,
+   "aspects": {
+    "LIGHT": 72,
+    "FIRE": 80,
+    "ENTROPY": 36,
+    "MAGIC": 64,
+    "AURA": 16,
+    "ENERGY": 48,
+    "SENSES": 32,
+    "VOID": 40
+   },
+   "center": "chaosTome",
+   "components": [
+    "missileRod",
+    "alumentum",
+    "terrasteelIngot",
+    "primalCharm",
+    "gaiaSpirit",
+    "etherealEssence",
+    "primordialPearl",
+    "etherealEssence",
+    "gaiaSpirit",
+    "primalCharm",
+    "terrasteelIngot",
+    "alumentum"
+   ]
+  },
+  "ICrimsonSpell": {
+   "research": "CrimsonSpell",
+   "output": "crimsonSpell",
+   "instability": 8,
+   "aspects": {
+    "FIRE": 72,
+    "ENTROPY": 64,
+    "MAGIC": 54,
+    "EXCHANGE": 24,
+    "SENSES": 32,
+    "MIND": 24,
+    "ENERGY": 48
+   },
+   "center": "writableBook",
+   "components": [
+    "crimsonRites",
+    "blazePowder",
+    "enchantedFabric",
+    "primalCharm",
+    "redstone",
+    "salisMundus",
+    "eldritchEye",
+    "salisMundus",
+    "redstone",
+    "primalCharm",
+    "enchantedFabric",
+    "blazePowder"
+   ]
+  },
+  "ILunarFlares": {
+   "research": "LunarFlares",
+   "output": "lunarFlares",
+   "instability": 12,
+   "aspects": {
+    "AIR": 64,
+    "ENERGY": 96,
+    "MAGIC": 120,
+    "MIND": 32,
+    "ORDER": 40,
+    "MOTION": 16,
+    "WEAPON": 24,
+    "LIGHT": 48
+   },
+   "center": "writableBook",
+   "components": [
+    "primalCharm",
+    "enderAir",
+    "terrasteelIngot",
+    "starSword",
+    "gaiaSpirit",
+    "salisMundus",
+    "primordialPearl",
+    "salisMundus",
+    "gaiaSpirit",
+    "starSword",
+    "terrasteelIngot",
+    "enderAir"
+   ]
+  },
+  "IApotheosis": {
+   "research": "Apotheosis",
+   "output": "apotheosis",
+   "instability": 48,
+   "aspects": {
+    "WEAPON": 128,
+    "TOOL": 72,
+    "EXCHANGE": 54,
+    "MAGIC": 80,
+    "LIGHT": 64,
+    "METAL": 32,
+    "MIND": 48,
+    "ORDER": 40
+   },
+   "center": "writableBook",
+   "components": [
+    "kingKey",
+    "knowledgeFragment",
+    "goldIngot",
+    "primalCharm",
+    "gaiaSpirit",
+    "salisMundus",
+    "primordialPearl",
+    "salisMundus",
+    "gaiaSpirit",
+    "primalCharm",
+    "goldIngot",
+    "knowledgeFragment"
+   ]
+  },
+  "IFalseJustice": {
+   "research": "FalseJustice",
+   "output": "falseJustice",
+   "instability": 24,
+   "aspects": {
+    "LIGHT": 120,
+    "GREED": 24,
+    "WEAPON": 40,
+    "TOOL": 36,
+    "MAN": 52,
+    "MAGIC": 36,
+    "EXCHANGE": 72,
+    "SOUL": 48,
+    "DARKNESS": 45
+   },
+   "center": "writableBook",
+   "components": [
+    "nitor",
+    "goldIngot",
+    "netherStar",
+    "knowledgeFragment",
+    "primordialPearl",
+    "knowledgeFragment",
+    "netherStar",
+    "goldIngot"
+   ]
+  }
+ },
+ "warp_research": {
+  "DimensionalMirror": 1,
+  "XPTome": 2,
+  "DiscordTome": 3,
+  "FateTome": 8,
+  "ObeliskDrainer": 4,
+  "EldritchSpell": 6,
+  "CrimsonSpell": 5,
+  "ChaosTome": 7,
+  "NuclearFury": 4,
+  "SoulTome": 3,
+  "Apotheosis": 10,
+  "ChaosCore": 2,
+  "TheParadox": 8,
+  "DarkSunRing": 3,
+  "OblivionAmulet": 8,
+  "FalseJustice": 4
+ },
+ "warp_item": [
+  {
+   "stack": "chaosTome",
+   "warp": 4
+  },
+  {
+   "stack": "fateTome",
+   "warp": 6
+  },
+  {
+   "stack": "theParadox",
+   "warp": 8
+  },
+  {
+   "stack": "oblivionAmulet",
+   "warp": 4
+  },
+  {
+   "stack": "falseJustice",
+   "warp": 10
+  },
+  {
+   "stack": "obeliskDrainer",
+   "warp": 3
+  }
+ ],
+ "item_aspects": {
+  "itemWeatherStone": {
+   "ENERGY": 12,
+   "WEATHER": 10,
+   "EXCHANGE": 8,
+   "AIR": 7,
+   "WATER": 7,
+   "MAGIC": 5
+  },
+  "itemMiningCharm": {
+   "MINE": 15,
+   "TOOL": 10,
+   "MOTION": 8,
+   "MAGIC": 8,
+   "METAL": 6
+  },
+  "itemAdvancedMiningCharm": {
+   "MINE": 32,
+   "TOOL": 24,
+   "CRYSTAL": 20,
+   "AURA": 16,
+   "MAGIC": 12
+  },
+  "itemAncientAegis": {
+   "ARMOR": 25,
+   "METAL": 22,
+   "HEAL": 16,
+   "EXCHANGE": 12,
+   "MAGIC": 10,
+   "ENERGY": 8
+  },
+  "itemApotheosis": {
+   "WEAPON": 45,
+   "LIGHT": 36,
+   "ORDER": 30,
+   "EXCHANGE": 24,
+   "MIND": 24,
+   "MAGIC": 22
+  },
+  "itemArcanum": {
+   "MAGIC": 54,
+   "AURA": 48,
+   "VOID": 40,
+   "EXCHANGE": 32,
+   "DARKNESS": 30,
+   "ELDRITCH": 25
+  },
+  "itemChaosCore": {
+   "MAGIC": 17,
+   "ORDER": 12,
+   "ENTROPY": 12,
+   "EXCHANGE": 10,
+   "VOID": 7,
+   "DARKNESS": 5
+  },
+  "itemChaosTome": {
+   "AIR": 36,
+   "FIRE": 36,
+   "WATER": 36,
+   "EARTH": 36,
+   "ORDER": 36,
+   "ENTROPY": 36
+  },
+  "itemCrimsonSpell": {
+   "MAGIC": 26,
+   "FIRE": 20,
+   "ENTROPY": 19,
+   "ELDRITCH": 16,
+   "MIND": 14,
+   "DARKNESS": 11
+  },
+  "itemDarkSunRing": {
+   "FIRE": 24,
+   "DARKNESS": 20,
+   "MAGIC": 15,
+   "EXCHANGE": 12,
+   "ARMOR": 9,
+   "VOID": 5
+  },
+  "itemDeificAmulet": {
+   "SOUL": 30,
+   "LIGHT": 23,
+   "MAN": 19,
+   "EXCHANGE": 16,
+   "MAGIC": 12,
+   "HEAL": 8
+  },
+  "itemDimensionalMirror": {
+   "METAL": 19,
+   "TRAVEL": 16,
+   "DARKNESS": 12,
+   "VOID": 12,
+   "MAGIC": 10,
+   "EXCHANGE": 8
+  },
+  "itemEldritchSpell": {
+   "ELDRITCH": 27,
+   "DARKNESS": 20,
+   "VOID": 20,
+   "WEAPON": 16,
+   "MIND": 16,
+   "MAGIC": 12
+  },
+  "itemFalseJustice": {
+   "LIGHT": 40,
+   "TOOL": 32,
+   "MAN": 24,
+   "EXCHANGE": 24,
+   "SOUL": 20,
+   "MAGIC": 16
+  },
+  "itemFateTome": {
+   "MAN": 24,
+   "EXCHANGE": 20,
+   "MIND": 20,
+   "LIFE": 16,
+   "HEAL": 16,
+   "MAGIC": 12
+  },
+  "itemLunarFlares": {
+   "AIR": 36,
+   "ENERGY": 30,
+   "LIGHT": 24,
+   "WEAPON": 24,
+   "MIND": 24,
+   "MAGIC": 20
+  },
+  "itemMissileTome": {
+   "ENERGY": 32,
+   "LIGHT": 28,
+   "AURA": 20,
+   "VOID": 16,
+   "SENSES": 16,
+   "MAGIC": 12
+  },
+  "itemObeliskDrainer": {
+   "VOID": 40,
+   "ELDRITCH": 32,
+   "DARKNESS": 28,
+   "MAGIC": 24,
+   "MIND": 16,
+   "ENERGY": 12
+  },
+  "itemShinyStone": {
+   "HEAL": 20,
+   "LIFE": 16,
+   "CRYSTAL": 12,
+   "EXCHANGE": 10,
+   "MAGIC": 8,
+   "TRAP": 4
+  },
+  "itemSoulTome": {
+   "SOUL": 30,
+   "DEATH": 25,
+   "VOID": 21,
+   "DARKNESS": 16,
+   "EXCHANGE": 16,
+   "MAGIC": 12
+  },
+  "itemTelekinesisTome": {
+   "MAGIC": 23,
+   "ENERGY": 20,
+   "MOTION": 16,
+   "TOOL": 15,
+   "MIND": 12,
+   "AIR": 7
+  },
+  "itemTeleportationTome": {
+   "TRAVEL": 25,
+   "MAGIC": 20,
+   "DARKNESS": 16,
+   "VOID": 16,
+   "MIND": 12,
+   "ORDER": 7
+  },
+  "itemXPTome": {
+   "MIND": 28,
+   "MAGIC": 21,
+   "SOUL": 16,
+   "EXCHANGE": 12,
+   "VOID": 8
+  },
+  "itemOblivionAmulet": {
+   "DARKNESS": 52,
+   "DEATH": 48,
+   "VOID": 45,
+   "EXCHANGE": 32,
+   "MAGIC": 25,
+   "ELDRITCH": 12
+  },
+  "itemDormantArcanum": {
+   "VOID": 8,
+   "DARKNESS": 8
+  },
+  "itemGhastlySkull": {
+   "DEATH": 16,
+   "SOUL": 14,
+   "DARKNESS": 14,
+   "ENTROPY": 10,
+   "VOID": 8,
+   "MAGIC": 8
+  },
+  "itemOmegaCore": {
+   "MAGIC": 32,
+   "AURA": 32,
+   "ENERGY": 32,
+   "LIGHT": 32,
+   "EXCHANGE": 32,
+   "VOID": 32
+  }
+ }
+}

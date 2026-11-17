@@ -1,0 +1,52 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.xp_tome.title",
+  "column": -5,
+  "row": -3,
+  "icons": [
+    "forgottenrelics:xp_tome"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.xp_tome.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.xp_tome.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/xp_tome"
+      ],
+      "warp": 2
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 8
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:weather_stone",
+    "~thaumaturge:jar_brain",
+    "~thaumaturge:unlock_alchemy"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:spiritus",
+      "amount": 80
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 60
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 45
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 60
+    },
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 48
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 52
+    }
+  ],
+  "components": [
+    "thaumaturge:pech_wand",
+    "thaumaturge:alumentum",
+    "botania:life_essence",
+    "minecraft:ender_eye",
+    "botania:life_essence",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:jar_brain",
+    "thaumaturge:salis_mundus",
+    "botania:life_essence",
+    "minecraft:ender_eye",
+    "botania:life_essence",
+    "thaumaturge:alumentum"
+  ],
+  "research": {
+    "entry": "forgottenrelics:soul_tome"
+  },
+  "result": {
+    "id": "forgottenrelics:soul_tome"
+  }
+}

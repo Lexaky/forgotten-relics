@@ -1,0 +1,39 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:stone_arcane",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 20
+    }
+  ],
+  "components": [
+    "botania:life_essence",
+    "minecraft:ghast_tear",
+    "botania:rune_air",
+    "thaumaturge:curio_knowledge",
+    "thaumaturge:nitor_yellow",
+    "thaumaturge:curio_knowledge",
+    "botania:rune_air",
+    "minecraft:ghast_tear"
+  ],
+  "research": {
+    "entry": "forgottenrelics:weather_stone"
+  },
+  "result": {
+    "id": "forgottenrelics:weather_stone"
+  }
+}

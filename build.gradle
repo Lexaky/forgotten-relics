@@ -1,0 +1,118 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+    id 'idea'
+}
+
+version = mod_version
+group = mod_group_id
+
+base {
+    archivesName = 'forgotten-relics'
+}
+
+// Minecraft 26.1 ships Java 25.
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
+
+sourceSets.main.resources {
+    srcDir('src/generated/resources')
+    exclude('src/generated/**/.cache')
+}
+
+repositories {
+    exclusiveContent {
+        forRepository { maven { name = 'CurseMaven'; url = 'https://cursemaven.com' } }
+        filter { includeGroup 'curse.maven' }
+    }
+    exclusiveContent {
+        forRepository { maven { name = 'Modrinth'; url = 'https://api.modrinth.com/maven' } }
+        filter { includeGroup 'maven.modrinth' }
+    }
+    maven { name = 'IllusiveSoulworks'; url = 'https://maven.theillusivec4.top/' }
+}
+
+neoForge {
+    version = project.neo_version
+
+    runs {
+        client {
+            client()
+            gameDirectory = project.file('run')
+        }
+        // Visual self-check: joins the world "frcheck", builds a showcase, saves screenshots and quits.
+        clientCheck {
+            client()
+            gameDirectory = project.file('run-check')
+            systemProperty 'forgottenrelics.clientcheck', 'true'
+            programArguments.addAll '--quickPlaySingleplayer', 'frcheck'
+        }
+        server {
+            server()
+            gameDirectory = project.file('run-server')
+            programArgument '--nogui'
+        }
+        gameTestServer {
+            type = 'gameTestServer'
+            gameDirectory = project.file('run-gametest')
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+            systemProperty 'forgottenrelics.gametest', 'true'
+        }
+        configureEach {
+            logLevel = org.slf4j.event.Level.INFO
+        }
+    }
+
+    mods {
+        "${mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+configurations {
+    runtimeClasspath.extendsFrom localRuntime
+}
+
+dependencies {
+    // Thaumaturge 1.1.0 (target API). The release jar is unobfuscated and carries the datagen output.
+    implementation "curse.maven:thaumaturge-1628024:${thaumaturge_cf_file}"
+    // Botania Revived (unofficial NeoForge port of Botania): ingredients, particles, Babylon weapons, Gaia checks.
+    implementation "curse.maven:botania-revived-1725641:${botania_cf_file}"
+    // Patchouli: hard runtime dependency of Botania Revived (its Gaia arena multiblock type is in Botania's API).
+    implementation "maven.modrinth:patchouli:${patchouli_modrinth_version}"
+    // Curios: required by Thaumaturge at runtime; its API backs the ring/amulet/belt slots.
+    compileOnly "top.theillusivec4.curios:curios-neoforge:${curios_version}+${minecraft_version}:api"
+    localRuntime "top.theillusivec4.curios:curios-neoforge:${curios_version}+${minecraft_version}"
+    // Lithostitched: required by Thaumaturge at runtime only.
+    localRuntime "maven.modrinth:XaDC71GB:${lithostitched_modrinth_version}"
+}
+
+var generateModMetadata = tasks.register('generateModMetadata', ProcessResources) {
+    var replaceProperties = [
+            minecraft_version        : minecraft_version,
+            minecraft_version_range  : minecraft_version_range,
+            neo_version              : neo_version,
+            mod_id                   : mod_id,
+            mod_name                 : mod_name,
+            mod_license              : mod_license,
+            mod_version              : mod_version,
+            thaumaturge_version_range: thaumaturge_version_range,
+            botania_version_range    : botania_version_range,
+    ]
+    inputs.properties replaceProperties
+    expand replaceProperties
+    from 'src/main/templates'
+    into 'build/generated/sources/modMetadata'
+}
+sourceSets.main.resources.srcDir generateModMetadata
+neoForge.ideSyncTask generateModMetadata
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+idea {
+    module {
+        downloadSources = true
+    }
+}

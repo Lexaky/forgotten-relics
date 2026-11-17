@@ -1,0 +1,50 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.superposition_ring.title",
+  "column": 3,
+  "row": 1,
+  "icons": [
+    "forgottenrelics:superposition_ring"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.superposition_ring.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.superposition_ring.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/superposition_ring"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 3
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:generic_theory",
+    "~thaumaturge:base_eldritch"
+  ]
+}

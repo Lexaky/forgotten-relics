@@ -1,0 +1,46 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.weather_stone.title",
+  "column": -3,
+  "row": -1,
+  "icons": [
+    "forgottenrelics:weather_stone"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.weather_stone.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.weather_stone.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/weather_stone"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 3
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forgottenrelics:generic_theory",
+    "~forgottenrelics:advanced_mining_charm"
+  ]
+}

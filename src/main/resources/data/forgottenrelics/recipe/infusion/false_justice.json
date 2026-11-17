@@ -1,0 +1,64 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "forgottenrelics:false_justice_enabled"
+    }
+  ],
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 6,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 120
+    },
+    {
+      "aspect": "thaumaturge:desiderium",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:humanus",
+      "amount": 52
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:spiritus",
+      "amount": 48
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 45
+    }
+  ],
+  "components": [
+    "thaumaturge:nitor_yellow",
+    "minecraft:gold_ingot",
+    "minecraft:nether_star",
+    "thaumaturge:curio_knowledge",
+    "thaumaturge:primordial_pearl",
+    "thaumaturge:curio_knowledge",
+    "minecraft:nether_star",
+    "minecraft:gold_ingot"
+  ],
+  "research": {
+    "entry": "forgottenrelics:false_justice"
+  },
+  "result": {
+    "id": "forgottenrelics:false_justice"
+  }
+}

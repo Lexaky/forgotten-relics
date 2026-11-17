@@ -1,0 +1,658 @@
+{
+  "values": {
+    "forgottenrelics:advanced_mining_charm": [
+      {
+        "aspect": "thaumaturge:instrumentum",
+        "amount": 112
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:auram",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:ancient_aegis": [
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 44
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 16
+      }
+    ],
+    "forgottenrelics:apotheosis": [
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 90
+      },
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 44
+      }
+    ],
+    "forgottenrelics:chaos_core": [
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 34
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 14
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 10
+      }
+    ],
+    "forgottenrelics:chaos_tome": [
+      {
+        "aspect": "thaumaturge:aer",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:terra",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 72
+      }
+    ],
+    "forgottenrelics:crimson_spell": [
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 52
+      },
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 38
+      },
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 28
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 22
+      }
+    ],
+    "forgottenrelics:dark_sun_ring": [
+      {
+        "aspect": "thaumaturge:ignis",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 30
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:praemunio",
+        "amount": 18
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 10
+      }
+    ],
+    "forgottenrelics:deific_amulet": [
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 46
+      },
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 38
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 16
+      }
+    ],
+    "forgottenrelics:dimensional_mirror": [
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 38
+      },
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 16
+      }
+    ],
+    "forgottenrelics:eldritch_spell": [
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 54
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:false_justice": [
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 80
+      },
+      {
+        "aspect": "thaumaturge:instrumentum",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 32
+      }
+    ],
+    "forgottenrelics:fate_tome": [
+      {
+        "aspect": "thaumaturge:humanus",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:ghastly_skull": [
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 28
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 28
+      },
+      {
+        "aspect": "thaumaturge:perditio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 16
+      }
+    ],
+    "forgottenrelics:lunar_flares": [
+      {
+        "aspect": "thaumaturge:aer",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:aversio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 40
+      }
+    ],
+    "forgottenrelics:mining_charm": [
+      {
+        "aspect": "thaumaturge:instrumentum",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:metallum",
+        "amount": 12
+      }
+    ],
+    "forgottenrelics:missile_tome": [
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 56
+      },
+      {
+        "aspect": "thaumaturge:auram",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:sensus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:nebulous_core": [
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 108
+      },
+      {
+        "aspect": "thaumaturge:auram",
+        "amount": 96
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 80
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 50
+      }
+    ],
+    "forgottenrelics:nebulous_core_dormant": [
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 16
+      }
+    ],
+    "forgottenrelics:obelisk_drainer": [
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 80
+      },
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 56
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 48
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:oblivion_amulet": [
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 104
+      },
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 96
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 90
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:alienis",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:omega_core": [
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:auram",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:lux",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 64
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 64
+      }
+    ],
+    "forgottenrelics:shiny_stone": [
+      {
+        "aspect": "thaumaturge:victus",
+        "amount": 72
+      },
+      {
+        "aspect": "thaumaturge:vitreus",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 20
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:vinculum",
+        "amount": 8
+      }
+    ],
+    "forgottenrelics:soul_tome": [
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 60
+      },
+      {
+        "aspect": "thaumaturge:mortuus",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 42
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 24
+      }
+    ],
+    "forgottenrelics:telekinesis_tome": [
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 46
+      },
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:instrumentum",
+        "amount": 30
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:aer",
+        "amount": 14
+      }
+    ],
+    "forgottenrelics:teleportation_tome": [
+      {
+        "aspect": "thaumaturge:motus",
+        "amount": 50
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 40
+      },
+      {
+        "aspect": "thaumaturge:tenebrae",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:ordo",
+        "amount": 14
+      }
+    ],
+    "forgottenrelics:weather_stone": [
+      {
+        "aspect": "thaumaturge:potentia",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:aer",
+        "amount": 34
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 16
+      },
+      {
+        "aspect": "thaumaturge:aqua",
+        "amount": 14
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 10
+      }
+    ],
+    "forgottenrelics:xp_tome": [
+      {
+        "aspect": "thaumaturge:cognitio",
+        "amount": 56
+      },
+      {
+        "aspect": "thaumaturge:praecantatio",
+        "amount": 42
+      },
+      {
+        "aspect": "thaumaturge:spiritus",
+        "amount": 32
+      },
+      {
+        "aspect": "thaumaturge:permutatio",
+        "amount": 24
+      },
+      {
+        "aspect": "thaumaturge:vacuos",
+        "amount": 16
+      }
+    ]
+  }
+}

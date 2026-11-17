@@ -1,0 +1,50 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.spellbook_theory.title",
+  "column": -1,
+  "row": 2,
+  "icons": [
+    "minecraft:writable_book"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.spellbook_theory.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.spellbook_theory.stage_1"
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 3
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forgottenrelics:generic_theory",
+    "~thaumaturge:crimson_rites"
+  ],
+  "meta": [
+    "round"
+  ]
+}

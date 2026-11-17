@@ -1,0 +1,55 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 52
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 25
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 32
+    }
+  ],
+  "components": [
+    "thaumaturge:nitor_yellow",
+    "thaumaturge:curio_knowledge",
+    "thaumaturge:ingot_void",
+    "thaumaturge:primal_charm",
+    "thaumaturge:fabric",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:eldritch_eye",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:fabric",
+    "thaumaturge:primal_charm",
+    "thaumaturge:ingot_void",
+    "thaumaturge:curio_knowledge"
+  ],
+  "research": {
+    "entry": "forgottenrelics:obelisk_drainer"
+  },
+  "result": {
+    "id": "forgottenrelics:obelisk_drainer"
+  }
+}

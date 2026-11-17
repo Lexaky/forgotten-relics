@@ -1,0 +1,39 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:spiritus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 24
+    }
+  ],
+  "components": [
+    "thaumaturge:jar_brain",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:amber",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:nitor_yellow",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:amber",
+    "thaumaturge:salis_mundus"
+  ],
+  "research": {
+    "entry": "forgottenrelics:xp_tome"
+  },
+  "result": {
+    "id": "forgottenrelics:xp_tome"
+  }
+}

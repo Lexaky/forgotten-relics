@@ -1,0 +1,87 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:primordial_pearl",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 80
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 128
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 50
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 48
+    }
+  ],
+  "components": [
+    "thaumaturge:amulet_vis_crafted",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "botania:life_essence",
+    "thaumaturge:ingot_thaumium",
+    "botania:ender_air_bottle",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "forgottenrelics:superposition_ring",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "botania:ender_air_bottle",
+    "thaumaturge:ingot_thaumium",
+    "botania:life_essence",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    }
+  ],
+  "research": {
+    "entry": "forgottenrelics:nebulous_core"
+  },
+  "result": {
+    "id": "forgottenrelics:nebulous_core"
+  }
+}

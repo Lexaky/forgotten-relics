@@ -1,0 +1,45 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:ring_fancy",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 60
+    },
+    {
+      "aspect": "thaumaturge:praemunio",
+      "amount": 48
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 25
+    }
+  ],
+  "components": [
+    "botania:super_lava_pendant",
+    "botania:elementium_ingot",
+    "minecraft:blaze_rod",
+    "thaumaturge:cinderpearl",
+    "thaumaturge:void_seed",
+    "thaumaturge:nitor_yellow",
+    "thaumaturge:void_seed",
+    "thaumaturge:cinderpearl",
+    "minecraft:blaze_rod",
+    "botania:elementium_ingot"
+  ],
+  "research": {
+    "entry": "forgottenrelics:dark_sun_ring"
+  },
+  "result": {
+    "id": "forgottenrelics:dark_sun_ring"
+  }
+}

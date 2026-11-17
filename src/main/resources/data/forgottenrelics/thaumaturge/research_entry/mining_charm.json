@@ -1,0 +1,49 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.mining_charm.title",
+  "column": 3,
+  "row": -1,
+  "icons": [
+    "forgottenrelics:mining_charm"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.mining_charm.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.mining_charm.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/mining_charm"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 9
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:humanus",
+      "amount": 3
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "forgottenrelics:generic_theory",
+    "~thaumaturge:elemental_tools"
+  ],
+  "meta": [
+    "round"
+  ]
+}

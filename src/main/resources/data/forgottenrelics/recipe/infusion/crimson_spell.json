@@ -1,0 +1,55 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 54
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:sensus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 48
+    }
+  ],
+  "components": [
+    "thaumaturge:curio_rites",
+    "minecraft:blaze_powder",
+    "thaumaturge:fabric",
+    "thaumaturge:primal_charm",
+    "minecraft:redstone",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:eldritch_eye",
+    "thaumaturge:salis_mundus",
+    "minecraft:redstone",
+    "thaumaturge:primal_charm",
+    "thaumaturge:fabric",
+    "minecraft:blaze_powder"
+  ],
+  "research": {
+    "entry": "forgottenrelics:crimson_spell"
+  },
+  "result": {
+    "id": "forgottenrelics:crimson_spell"
+  }
+}

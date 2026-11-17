@@ -1,0 +1,67 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 100
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 256
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 40
+    }
+  ],
+  "components": [
+    "thaumaturge:focus_3",
+    "thaumaturge:salis_mundus",
+    "botania:elementium_ingot",
+    "thaumaturge:focus_3",
+    "botania:life_essence",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:focus_3",
+    "thaumaturge:salis_mundus",
+    "botania:life_essence",
+    "thaumaturge:focus_3",
+    "botania:elementium_ingot",
+    "thaumaturge:salis_mundus"
+  ],
+  "research": {
+    "entry": "forgottenrelics:chaos_tome"
+  },
+  "result": {
+    "id": "forgottenrelics:chaos_tome"
+  }
+}

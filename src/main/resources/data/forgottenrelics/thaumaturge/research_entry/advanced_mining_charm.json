@@ -1,0 +1,53 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.advanced_mining_charm.title",
+  "column": 5,
+  "row": -3,
+  "icons": [
+    "forgottenrelics:advanced_mining_charm"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.advanced_mining_charm.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.advanced_mining_charm.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/advanced_mining_charm"
+      ]
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 14
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 3
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:mining_charm",
+    "forgottenrelics:scanned/advanced_mining_charm"
+  ],
+  "meta": [
+    "hidden"
+  ]
+}

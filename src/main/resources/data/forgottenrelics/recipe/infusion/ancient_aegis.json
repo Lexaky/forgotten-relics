@@ -1,0 +1,59 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "botania:knockback_belt",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:praemunio",
+      "amount": 45
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 20
+    }
+  ],
+  "components": [
+    "botania:dragonstone",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_healing"
+        }
+      }
+    },
+    "minecraft:gold_ingot",
+    "thaumaturge:fabric",
+    "thaumaturge:girdle_fancy",
+    "thaumaturge:fabric",
+    "minecraft:gold_ingot",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_healing"
+        }
+      }
+    }
+  ],
+  "research": {
+    "entry": "forgottenrelics:ancient_aegis"
+  },
+  "result": {
+    "id": "forgottenrelics:ancient_aegis"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.discord_tome.title",
+  "column": -2,
+  "row": 5,
+  "icons": [
+    "forgottenrelics:teleportation_tome"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.discord_tome.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.discord_tome.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/teleportation_tome"
+      ],
+      "warp": 3
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 3
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:spellbook_theory",
+    "~thaumaturge:focus_rift",
+    "forgottenrelics:scanned/discord_tome"
+  ],
+  "meta": [
+    "hidden"
+  ]
+}

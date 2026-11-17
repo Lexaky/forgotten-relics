@@ -1,0 +1,75 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "forgottenrelics:chaos_tome",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 80
+    },
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 48
+    },
+    {
+      "aspect": "thaumaturge:sensus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:vacuos",
+      "amount": 40
+    }
+  ],
+  "components": [
+    "botania:missile_rod",
+    "thaumaturge:alumentum",
+    "botania:terrasteel_ingot",
+    "thaumaturge:primal_charm",
+    "botania:life_essence",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "thaumaturge:primordial_pearl",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "botania:life_essence",
+    "thaumaturge:primal_charm",
+    "botania:terrasteel_ingot",
+    "thaumaturge:alumentum"
+  ],
+  "research": {
+    "entry": "forgottenrelics:nuclear_fury"
+  },
+  "result": {
+    "id": "forgottenrelics:missile_tome"
+  }
+}

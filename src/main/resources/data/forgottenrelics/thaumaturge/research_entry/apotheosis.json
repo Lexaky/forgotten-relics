@@ -1,0 +1,69 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.apotheosis.title",
+  "column": -2,
+  "row": 7,
+  "icons": [
+    "forgottenrelics:apotheosis"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.apotheosis.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.apotheosis.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/apotheosis"
+      ],
+      "warp": 10
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 10
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 5
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:discord_tome",
+    "~forgottenrelics:lunar_flares",
+    "~forgottenrelics:soul_tome",
+    "~forgottenrelics:nuclear_fury",
+    "~forgottenrelics:crimson_spell",
+    "~forgottenrelics:fate_tome",
+    "~forgottenrelics:nebulous_core",
+    "~forgottenrelics:oblivion_amulet",
+    "~forgottenrelics:the_paradox",
+    "~forgottenrelics:dark_sun_ring",
+    "~forgottenrelics:shiny_stone",
+    "~forgottenrelics:dimensional_mirror"
+  ],
+  "meta": [
+    "round",
+    "spiky"
+  ]
+}

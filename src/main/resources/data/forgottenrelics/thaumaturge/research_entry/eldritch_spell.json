@@ -1,0 +1,58 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.eldritch_spell.title",
+  "column": 2,
+  "row": 6,
+  "icons": [
+    "forgottenrelics:eldritch_spell"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.eldritch_spell.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.eldritch_spell.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/eldritch_spell"
+      ],
+      "warp": 6
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:obelisk_drainer",
+    "~forgottenrelics:advanced_mining_charm"
+  ],
+  "meta": [
+    "spiky"
+  ]
+}

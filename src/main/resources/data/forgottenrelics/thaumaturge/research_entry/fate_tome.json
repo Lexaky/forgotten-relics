@@ -1,0 +1,55 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.fate_tome.title",
+  "column": -4,
+  "row": 2,
+  "icons": [
+    "forgottenrelics:fate_tome"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.fate_tome.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.fate_tome.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/fate_tome"
+      ],
+      "warp": 8
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:spellbook_theory",
+    "~thaumaturge:outer_revelations",
+    "~forgottenrelics:advanced_mining_charm"
+  ],
+  "meta": [
+    "spiky"
+  ]
+}

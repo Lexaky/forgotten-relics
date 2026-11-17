@@ -1,0 +1,59 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 96
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 120
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 48
+    }
+  ],
+  "components": [
+    "thaumaturge:primal_charm",
+    "botania:ender_air_bottle",
+    "botania:terrasteel_ingot",
+    "botania:star_sword",
+    "botania:life_essence",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:primordial_pearl",
+    "thaumaturge:salis_mundus",
+    "botania:life_essence",
+    "botania:star_sword",
+    "botania:terrasteel_ingot",
+    "botania:ender_air_bottle"
+  ],
+  "research": {
+    "entry": "forgottenrelics:lunar_flares"
+  },
+  "result": {
+    "id": "forgottenrelics:lunar_flares"
+  }
+}

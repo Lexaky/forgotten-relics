@@ -1,0 +1,39 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:primal_charm",
+  "instability": 4,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:perditio",
+      "amount": 25
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 25
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 32
+    }
+  ],
+  "components": [
+    "botania:dragonstone",
+    "botania:pixie_dust",
+    "thaumaturge:ingot_void",
+    "botania:pixie_dust",
+    "thaumaturge:alumentum",
+    "botania:pixie_dust",
+    "thaumaturge:ingot_void",
+    "botania:pixie_dust"
+  ],
+  "research": {
+    "entry": "forgottenrelics:chaos_core"
+  },
+  "result": {
+    "id": "forgottenrelics:chaos_core"
+  }
+}

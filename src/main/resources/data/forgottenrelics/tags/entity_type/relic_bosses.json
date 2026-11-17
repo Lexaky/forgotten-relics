@@ -1,0 +1,34 @@
+{
+  "replace": false,
+  "values": [
+    "#c:bosses",
+    {
+      "id": "botania:doppleganger",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:cultist_leader",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:cultist_portal_greater",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:eldritch_golem",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:eldritch_warden",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:eldritch_hierophant",
+      "required": false
+    },
+    {
+      "id": "thaumaturge:taintacle_giant",
+      "required": false
+    }
+  ]
+}

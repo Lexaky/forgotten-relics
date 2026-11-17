@@ -1,0 +1,55 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 64
+    },
+    {
+      "aspect": "thaumaturge:mortuus",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:aversio",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:vitium",
+      "amount": 24
+    }
+  ],
+  "components": [
+    "thaumaturge:primal_charm",
+    "thaumaturge:ingot_void",
+    "minecraft:fire_charge",
+    "thaumaturge:eldritch_eye",
+    "thaumaturge:bottle_taint",
+    "thaumaturge:salis_mundus",
+    "botania:life_essence",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:bottle_taint",
+    "thaumaturge:eldritch_eye",
+    "minecraft:fire_charge",
+    "thaumaturge:ingot_void"
+  ],
+  "research": {
+    "entry": "forgottenrelics:eldritch_spell"
+  },
+  "result": {
+    "id": "forgottenrelics:eldritch_spell"
+  }
+}

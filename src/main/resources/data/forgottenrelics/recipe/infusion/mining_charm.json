@@ -1,0 +1,63 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "botania:reach_ring",
+  "instability": 2,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 44
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:metallum",
+      "amount": 12
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 16
+    }
+  ],
+  "components": [
+    "thaumaturge:elemental_pickaxe",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:terra"
+        }
+      }
+    },
+    "thaumaturge:salis_mundus",
+    "minecraft:gold_ingot",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_swiftness"
+        }
+      }
+    },
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:terra"
+        }
+      }
+    },
+    "thaumaturge:salis_mundus",
+    "minecraft:gold_ingot"
+  ],
+  "research": {
+    "entry": "forgottenrelics:mining_charm"
+  },
+  "result": {
+    "id": "forgottenrelics:mining_charm"
+  }
+}

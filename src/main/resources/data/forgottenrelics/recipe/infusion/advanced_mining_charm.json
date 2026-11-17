@@ -1,0 +1,83 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "forgottenrelics:mining_charm",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 114
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 48
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 40
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 36
+    }
+  ],
+  "components": [
+    "thaumaturge:primal_charm",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "botania:elementium_ingot",
+    "botania:dragonstone",
+    "botania:life_essence",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "thaumaturge:void_pickaxe",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    },
+    "botania:life_essence",
+    "botania:dragonstone",
+    "botania:elementium_ingot",
+    {
+      "neoforge:ingredient_type": "neoforge:components",
+      "items": "thaumaturge:essentia_crystal",
+      "components": {
+        "thaumaturge:crystal_aspect": {
+          "aspect": "thaumaturge:auram"
+        }
+      }
+    }
+  ],
+  "research": {
+    "entry": "forgottenrelics:advanced_mining_charm"
+  },
+  "result": {
+    "id": "forgottenrelics:advanced_mining_charm"
+  }
+}

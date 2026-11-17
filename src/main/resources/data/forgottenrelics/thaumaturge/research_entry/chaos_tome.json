@@ -1,0 +1,56 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.chaos_tome.title",
+  "column": 2,
+  "row": 4,
+  "icons": [
+    "forgottenrelics:chaos_tome"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.chaos_tome.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.chaos_tome.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/chaos_tome"
+      ],
+      "warp": 7
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:aer",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:aqua",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:terra",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 7
+    }
+  ],
+  "complexity": 2,
+  "parents": [
+    "forgottenrelics:eldritch_spell",
+    "~thaumaturge:staff_primal",
+    "~forgottenrelics:advanced_mining_charm"
+  ]
+}

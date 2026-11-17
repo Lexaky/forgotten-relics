@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:ring_mundane",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:alienis",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:motus",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 20
+    },
+    {
+      "aspect": "thaumaturge:praemunio",
+      "amount": 8
+    }
+  ],
+  "components": [
+    "minecraft:ender_eye",
+    "botania:ender_air_bottle",
+    "thaumaturge:void_seed",
+    "thaumaturge:salis_mundus",
+    "minecraft:emerald",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:void_seed",
+    "botania:ender_air_bottle"
+  ],
+  "research": {
+    "entry": "forgottenrelics:superposition_ring"
+  },
+  "result": {
+    "id": "forgottenrelics:superposition_ring"
+  }
+}

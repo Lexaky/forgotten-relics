@@ -1,0 +1,43 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "botania:dragonstone",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 72
+    },
+    {
+      "aspect": "thaumaturge:vinculum",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:vitreus",
+      "amount": 16
+    }
+  ],
+  "components": [
+    "thaumaturge:primal_charm",
+    "minecraft:gold_ingot",
+    "botania:life_essence",
+    "thaumaturge:nitor_yellow",
+    "minecraft:enchanted_golden_apple",
+    "thaumaturge:nitor_yellow",
+    "botania:life_essence",
+    "minecraft:gold_ingot"
+  ],
+  "research": {
+    "entry": "forgottenrelics:shiny_stone"
+  },
+  "result": {
+    "id": "forgottenrelics:shiny_stone"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.dark_sun_ring.title",
+  "column": 7,
+  "row": 2,
+  "icons": [
+    "forgottenrelics:dark_sun_ring"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.dark_sun_ring.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.dark_sun_ring.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/dark_sun_ring"
+      ],
+      "warp": 3
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 7
+    },
+    {
+      "aspect": "thaumaturge:tenebrae",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:praemunio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 3
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:superposition_ring",
+    "~thaumaturge:base_eldritch",
+    "~thaumaturge:unlock_alchemy",
+    "~thaumaturge:runic_shielding",
+    "~forgottenrelics:advanced_mining_charm"
+  ]
+}

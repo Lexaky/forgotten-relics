@@ -1,0 +1,32 @@
+{
+  "discharge": {
+    "category": "player",
+    "subtitle": "subtitles.forgottenrelics.discharge",
+    "sounds": [
+      {
+        "name": "forgottenrelics:discharge",
+        "stream": false
+      }
+    ]
+  },
+  "lunar_flare": {
+    "category": "player",
+    "subtitle": "subtitles.forgottenrelics.lunar_flare",
+    "sounds": [
+      {
+        "name": "forgottenrelics:lunar_flare",
+        "stream": false
+      }
+    ]
+  },
+  "starfall": {
+    "category": "player",
+    "subtitle": "subtitles.forgottenrelics.starfall",
+    "sounds": [
+      {
+        "name": "forgottenrelics:starfall",
+        "stream": false
+      }
+    ]
+  }
+}

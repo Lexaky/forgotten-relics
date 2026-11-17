@@ -1,0 +1,55 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.nuclear_fury.title",
+  "column": 4,
+  "row": 5,
+  "icons": [
+    "forgottenrelics:missile_tome"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.nuclear_fury.stage_0",
+      "required_knowledge": [
+        {
+          "type": "theory",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.nuclear_fury.stage_1",
+      "recipes": [
+        "forgottenrelics:infusion/missile_tome"
+      ],
+      "warp": 4
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:potentia",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 6
+    },
+    {
+      "aspect": "thaumaturge:ignis",
+      "amount": 5
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 5
+    }
+  ],
+  "complexity": 3,
+  "parents": [
+    "forgottenrelics:chaos_tome",
+    "~thaumaturge:primordial_pearl"
+  ]
+}

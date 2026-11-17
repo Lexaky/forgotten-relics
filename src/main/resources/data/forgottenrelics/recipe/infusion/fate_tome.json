@@ -1,0 +1,51 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "minecraft:writable_book",
+  "instability": 5,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 104
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 32
+    },
+    {
+      "aspect": "thaumaturge:humanus",
+      "amount": 24
+    },
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:spiritus",
+      "amount": 36
+    },
+    {
+      "aspect": "thaumaturge:ordo",
+      "amount": 20
+    }
+  ],
+  "components": [
+    "thaumaturge:charm_undying",
+    "botania:dragonstone",
+    "botania:life_essence",
+    "thaumaturge:nitor_yellow",
+    "botania:life_essence",
+    "thaumaturge:salis_mundus",
+    "thaumaturge:primal_charm",
+    "thaumaturge:salis_mundus",
+    "botania:life_essence",
+    "thaumaturge:nitor_yellow",
+    "botania:life_essence",
+    "botania:dragonstone"
+  ],
+  "research": {
+    "entry": "forgottenrelics:fate_tome"
+  },
+  "result": {
+    "id": "forgottenrelics:fate_tome"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "forgottenrelics:dark_matter",
+    "forgottenrelics:fate",
+    "forgottenrelics:oblivion",
+    "forgottenrelics:soul_drain",
+    "forgottenrelics:telekinetic_lightning",
+    "forgottenrelics:true_damage",
+    "forgottenrelics:true_damage_undefined"
+  ]
+}

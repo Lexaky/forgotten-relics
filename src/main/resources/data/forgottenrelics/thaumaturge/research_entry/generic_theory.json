@@ -1,0 +1,51 @@
+{
+  "category": "forgottenrelics:forgottenrelics",
+  "name": "research.forgottenrelics.generic_theory.title",
+  "column": 0,
+  "row": 0,
+  "icons": [
+    "thaumaturge:runed_tablet"
+  ],
+  "stages": [
+    {
+      "text": "research.forgottenrelics.generic_theory.stage_0",
+      "required_knowledge": [
+        {
+          "type": "observation",
+          "category": "forgottenrelics:forgottenrelics",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "text": "research.forgottenrelics.generic_theory.stage_1"
+    }
+  ],
+  "note_aspects": [
+    {
+      "aspect": "thaumaturge:cognitio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:instrumentum",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 4
+    },
+    {
+      "aspect": "thaumaturge:fabrico",
+      "amount": 4
+    }
+  ],
+  "complexity": 1,
+  "parents": [
+    "~thaumaturge:infusion",
+    "~thaumaturge:metallurgy"
+  ],
+  "meta": [
+    "round",
+    "spiky"
+  ]
+}

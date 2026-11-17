@@ -1,0 +1,47 @@
+{
+  "type": "thaumaturge:infusion",
+  "catalyst": "thaumaturge:amulet_fancy",
+  "instability": 3,
+  "aspects": [
+    {
+      "aspect": "thaumaturge:humanus",
+      "amount": 30
+    },
+    {
+      "aspect": "thaumaturge:lux",
+      "amount": 42
+    },
+    {
+      "aspect": "thaumaturge:auram",
+      "amount": 16
+    },
+    {
+      "aspect": "thaumaturge:praecantatio",
+      "amount": 25
+    },
+    {
+      "aspect": "thaumaturge:victus",
+      "amount": 8
+    },
+    {
+      "aspect": "thaumaturge:permutatio",
+      "amount": 20
+    }
+  ],
+  "components": [
+    "botania:lava_pendant",
+    "botania:life_essence",
+    "botania:pixie_dust",
+    "botania:life_essence",
+    "thaumaturge:primal_charm",
+    "botania:life_essence",
+    "botania:pixie_dust",
+    "botania:life_essence"
+  ],
+  "research": {
+    "entry": "forgottenrelics:deific_amulet"
+  },
+  "result": {
+    "id": "forgottenrelics:deific_amulet"
+  }
+}
